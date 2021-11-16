@@ -1,0 +1,22 @@
+# Theme metadata
+name = "stanford"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#8C1515"
+
+# Menu
+menu_primary = "#8C1515"
+menu_text = "#fff"
+menu_text_active = "#007662"
+menu_title = "#fff"
+
+
+# Home sections
+home_section_odd = "#ffffff"
+home_section_even = "#ffffff"
+
+
+#pending: link argument https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/wowchemy/data/themes/minimal.toml
