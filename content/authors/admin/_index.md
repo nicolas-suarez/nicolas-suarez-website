@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include Development and Public Economics, Data Science and Machine Learning applications for Causal Inference.
 
 interests:
-- Development Economics
-- Public Economics
 - Data Science
 - Machine Learning
+- Development Economics
+- Public Economics
 
 
 education:
